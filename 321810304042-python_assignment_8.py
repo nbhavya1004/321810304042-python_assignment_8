@@ -30,15 +30,10 @@ print(swap('abc', 'xyz'))
 
 # type-1 :
 
-str1 = "Python Programs\n"
+str1 = "Python\n"
 print(str1)
 print(str1.strip())
 
-# type-2 :
-
-str1 = "Bhavya\n"
-print(str1)
-print(str1.rstrip())
 
 
 
