@@ -38,7 +38,7 @@ print(str1.strip())
 
 str1 = "Python\n"
 print(str1)
-print(str1.strip())
+print(str1.rstrip())
 
 
 
